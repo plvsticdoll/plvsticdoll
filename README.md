@@ -34,8 +34,8 @@
 </p>
 <p align="center">
   <a href= "https://rentry.co/2gwrrpni"> rentry </a> ×
-  <a href= "https://entroped.straw.page"> strwpg </a> ×
-  <a href= "https://en.pronouns.page/@Fallingsouls"> prnspge </a> ! 
+  <a href= "https://entroped.straw.page"> strawpage </a> ×
+  <a href= "https://azresash.atabook.org/"> atabook </a> ! 
   <br>
 
   </p>

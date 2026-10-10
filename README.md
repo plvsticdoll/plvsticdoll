@@ -1,9 +1,9 @@
   <p align="center">
-  <img width="700" height="350" src="https://file.garden/aitxhC9ZEFuXuKr-/tumblr_1a284ac089c0978f6fb1a85b3601985b_0ee61a34_400.png">
+  <img width="800" height="450" src="https://i.pinimg.com/originals/5d/2a/2a/5d2a2a88d800c9156bcb793ecf31ae1f.gif">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-Phobixed&label=Shimmer&color=a04ed8&style=plastic&abbreviated=true&base=21000">
+  <img src="https://komarev.com/ghpvc/?username=your-github-plvsticdoll&label=Infected&color=a04ed8&style=plastic&abbreviated=true&base=21100">
 </p>
 
  </p>

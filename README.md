@@ -2,9 +2,9 @@
   <img width="800" height="450" src="https://i.pinimg.com/originals/5d/2a/2a/5d2a2a88d800c9156bcb793ecf31ae1f.gif">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-plvsticdoll&label=Infected&color=a04ed8&style=plastic&abbreviated=true&base=21100">
-</p>
+ <p align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-plvsticdoll&label=Infects&color=a04ed8&style=plastic&abbreviated=true&base=21000">
+</p> (it was fine two secs ago ?)
 
  </p>
 <p align="center">
